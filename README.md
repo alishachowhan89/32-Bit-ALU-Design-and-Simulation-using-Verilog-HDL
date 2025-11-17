@@ -1,1 +1,0 @@
-# 32-Bit-ALU-Design-and-Simulation-using-Verilog-HDL
